@@ -26,4 +26,15 @@ Welcome to the **Catalyst Theft Script**, a thrilling and immersive FiveM mod wh
 2. Place the script folder into your **resources** directory.
 3. Copy the **items** from `shared/items` into your own `qb-core/shared/items.lua` file.
 4. Add the item images to your inventory's **html/images** folder.
-5. Add the following line to your `server.cfg`:
+5. Change the folder name from catalyst-theft-main to catalyst-theft
+5. Add the following line to your `server.cfg`:  ensure catalyst-theft
+
+
+## ⚠️ Disclaimer
+
+- This script is provided for **personal use only**. 
+- You are **not allowed** to copy, redistribute, or re-release this script without explicit permission from the author.
+- Violating this agreement may result in penalties or legal action.
+
+---
+
