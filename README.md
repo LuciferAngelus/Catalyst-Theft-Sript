@@ -29,6 +29,12 @@ Welcome to the **Catalyst Theft Script**, a thrilling and immersive FiveM mod wh
 5. Change the folder name from catalyst-theft-main to catalyst-theft
 5. Add the following line to your `server.cfg`:  ensure catalyst-theft
 
+## 📝 To-Do
+
+- [ ] Enhance police alert system.
+- [ ] Integrate with other vehicle theft scripts.
+- [ ] Create better animations.
+
 
 ## ⚠️ Disclaimer
 
