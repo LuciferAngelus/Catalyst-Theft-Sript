@@ -30,10 +30,12 @@ Watch your back, because the police might be just around the corner! 🚔
 3. Copy the **items** from `shared/items` into your own `qb-core/shared/items.lua` file.
 4. Add the item images to your inventory's **html/images** folder.
 5. Change the folder name from catalyst-theft-main to catalyst-theft
-5. Add the following line to your `server.cfg`:  ensure catalyst-theft
+6. **Add the item = "catalytic_converter" your pawnshop script** so players can sell the stolen catalytic converters.
+7. Add the following line to your `server.cfg`:  ensure catalyst-theft
 
 ## 📝 To-Do
 
+- [ ] Add a fixed selling locations instead of pawnshop
 - [ ] Add ESX Compatibility
 - [ ] Enhance police alert system.
 - [ ] Integrate with other vehicle theft scripts.
