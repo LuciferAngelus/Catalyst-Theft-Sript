@@ -16,6 +16,7 @@ Watch your back, because the police might be just around the corner! 🚔
 
 - **Steal catalytic converters** from parked or moving vehicles.
 - Realistic animations and progress bars for an immersive experience.
+- Minigame that can be changed based on skillscheck
 - Compatible with multiple frameworks and vehicles.
 - Configurable chances of success/failure based on vehicle type.
 - Can trigger police alerts for a more dynamic server experience!
