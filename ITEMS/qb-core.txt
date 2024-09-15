@@ -1,0 +1,5 @@
+['oxycutter'] 				 = {['name'] = 'oxycutter', 			 	  	['label'] = 'Oxycutter', 			    ['weight'] = 1000, 		['type'] = 'item', 		['image'] = 'oxycutter.png', 			   ['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A Oxycutter for those in need!'},
+['catalytic_converter'] 	 = {['name'] = 'catalytic_converter', 			['label'] = 'Catalytic Converter', 	    ['weight'] = 300, 		['type'] = 'item', 		['image'] = 'catalytic_converter.png', 	   ['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A Cars Catalytic Converter Officer!'},
+
+	
+	
